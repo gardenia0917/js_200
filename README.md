@@ -6,6 +6,8 @@ start : 2022 06 23
 
 ## PART1 입문
 
+- `.md파일` 기준
+
 `001` [웹콘솔로 코드 실행하기](https://github.com/sunyeongjeong/js_200/blob/main/%EC%9E%85%EB%AC%B8/001.md)<br>
 `002` [Node.js REPL로 코드 실행하기](https://github.com/sunyeongjeong/js_200/blob/main/%EC%9E%85%EB%AC%B8/002.md)<br>
 `003` [Visual Studio Code로 프로그래밍하기 1](https://github.com/sunyeongjeong/js_200/blob/main/%EC%9E%85%EB%AC%B8/003.js)<br>
