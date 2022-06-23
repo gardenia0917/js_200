@@ -13,3 +13,8 @@ start : 2022 06 23
 `005` [값과 변수 이해하기](https://github.com/sunyeongjeong/js_200/tree/main/%EC%9E%85%EB%AC%B8/005)<br>
 `006` [자바스크립트 문장 배우기](https://github.com/sunyeongjeong/js_200/tree/main/%EC%9E%85%EB%AC%B8/006)<br>
 `007` [주석처리하기]()<br>
+`008` [자료형이해하기]()<br>
+`009` [자료형이해하기]()<br>
+`010` [자료형이해하기]()<br>
+`011` [자료형이해하기]()<br>
+`012` [자료형이해하기]()<br>
