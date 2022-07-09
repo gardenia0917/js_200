@@ -26,8 +26,8 @@ start : 2022 06 23
 
 ## PART2 초급
 
-`016` [숫자형 이해하기]()<br>
-`017` [문자형 이해하기]()<br>
-`018` [불린형 이해하기]()<br>
-`019` [null과 undefined 이해하기]()<br>
-`020` [템플릿 문자열 이해하기]()<br>
+`016` [숫자형 이해하기](https://github.com/gardenia0917/js_200/blob/main/%EC%B4%88%EA%B8%89/016.md)<br>
+`017` [문자형 이해하기](https://github.com/gardenia0917/js_200/blob/main/%EC%B4%88%EA%B8%89/017.md)<br>
+`018` [불린형 이해하기](https://github.com/gardenia0917/js_200/blob/main/%EC%B4%88%EA%B8%89/018.md)<br>
+`019` [null과 undefined 이해하기](https://github.com/gardenia0917/js_200/blob/main/%EC%B4%88%EA%B8%89/019.md)<br>
+`020` [템플릿 문자열 이해하기](https://github.com/gardenia0917/js_200/blob/main/%EC%B4%88%EA%B8%89/020.md)<br>
